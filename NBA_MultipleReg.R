@@ -23,8 +23,8 @@ y<-data1$Weight
 model<-lm(z~ x + y)
 summary(model)
 
-#Examining the printout, we find that a one inch increase in height is associated with a 0.19 increase in shoe size. Shoe sizes increase by 1 size for every additional ~5 inches in height, on average.
-#By the same token, a one pound increase in weight is associated with a .04611 inch increase in shoe size. In other words, a 1 size increase in shoe size is associated with a ~21.7 pound increase in weight, on average.
+#Examining the printout, we find that a one inch increase in height is associated with a 0.19 increase in shoe size, ceteris paribus. Shoe sizes increase by 1 size for every additional ~5 inches in height, on average.
+#By the same token, a one pound increase in weight is associated with a .04611 inch increase in shoe size, ceteris paribus. In other words, a 1 size increase in shoe size is associated with a ~21.7 pound increase in weight, on average.
 #Also note that the R^2 value is 0.8368359 and the adjusted R^2 value is 0.8005772
 #Let's calculate all these values by hand.
 

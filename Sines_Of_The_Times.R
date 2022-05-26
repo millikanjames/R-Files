@@ -1,5 +1,5 @@
-#R Script to accompany the "Sines of the Times" ecological justice project.
-#James Millikan, SJ, Verbum Dei High School, Los Angeles, 2022. AMDG
+#R script to accompany the "Sines of the Times" ecological justice project.
+#James Millikan, SJ, Verbum Dei Jesuit High School, Los Angeles, 2022. AMDG
 
 #Average monthly temperatures in Bethel, Alaska 1960s & 2010s
 

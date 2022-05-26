@@ -11,4 +11,8 @@ Chapter 2 simulation script - A modifiable R script for performing simulations t
 
 An Excel file that simulates Steph Curry's three point shooting ability. This uses the same methods used in the R Script. The Excel file, like the R Script, can be easily modified to simulate outcomes of any categorical variable—just change the true ability intervals and fill the columns down until you have the number of desired attempts. The random numbers in the Excel sheet change continually, making it possible to generate as many simulations as you need. It's definitely slower than the R script, so you might want to build a Macro if you are simulating more than 50 performances or so. Performing a few simulations in the spreadsheet is a good way to give students insight into what's going on "under the hood' before moving on to R.
 
+An R file for calculating a simple OLS regression using a bit of linear algebra.
+
+An R file for calculating multiple regression correlation and R-Square coefficients using linear algebra.
+
 Bonus: Honors Precalculus Project and R script for climate models for Alaska's Yukon-Kuskakwim Delta. You can read about the effects of the warming here: https://www.theguardian.com/environment/interactive/2013/may/13/newtok-alaska-climate-change-refugees. Send me an email at jmillikan@jesuits.org if you need the solutions to the project.
